@@ -6,5 +6,6 @@
 4. var css - https://developer.mozilla.org/ru/docs/Web/CSS/var
 
 https://github.com/dykyys/goit-hw-01/tree/blended-2
+видео - https://www.youtube.com/watch?v=Hz8kKkLCO24&feature=youtu.be
 
 https://github.com/luxplanjay - ссылка на github преподователя с go it по javascript.
